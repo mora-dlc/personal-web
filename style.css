@@ -136,11 +136,11 @@ h3{
     background-color: #70707050;
     width: 30vw;
     height: 3vh;
-    color: #fff;
+    color: #242424;
     transition: 0.5s;
 }
 .bar-light-grey:hover{
-    color: #242424;
+    color: #d52f23;
     transition: 0.5s;
 }
 .bar-color{
