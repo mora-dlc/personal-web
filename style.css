@@ -137,7 +137,6 @@ h3{
     width: 30vw;
     height: 3vh;
     color: #242424;
-    box-shadow: 5px 0 5px -5px rgba(0,0,0,0.7);
     transition: 0.5s;
 }
 .bar-light-grey:hover{
@@ -147,6 +146,7 @@ h3{
 }
 .bar-color{
     background-color: #d5d223;
+    box-shadow: 12px 0 3px -4px #24242460;
     animation: progress 15s linear ;
     height: 3vh;
     transition: 0.5s;
