@@ -146,7 +146,7 @@ h3{
 }
 .bar-color{
     background-color: #d5d223;
-    box-shadow: 12px 0 3px -4px #24242460;
+    box-shadow: 7px 0 3px -6px #24242460;
     animation: progress 15s linear ;
     height: 3vh;
     transition: 0.5s;
