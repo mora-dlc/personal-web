@@ -141,6 +141,7 @@ h3{
 }
 .bar-light-grey:hover{
     color: #d52f23;
+    font-weight: bold;
     transition: 0.5s;
 }
 .bar-color{
@@ -149,7 +150,7 @@ h3{
     height: 3vh;
     transition: 0.5s;
 }
-.bar-color:hover{
+.bar-light-grey:hover .bar-color{
     background-color: #ee7752;
     transition: 0.5s;
 }
